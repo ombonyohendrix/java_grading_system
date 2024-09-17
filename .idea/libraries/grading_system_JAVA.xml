@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="grading-system-JAVA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/protobuf-java-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
